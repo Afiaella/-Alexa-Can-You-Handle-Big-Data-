@@ -16,6 +16,8 @@ This project contained two levels. I have completed the first level.
 
 ### Level 1
 
+In Level 1 I ...
+
 * Created tables in my RDS database with the provided schema.
 
 * Created two separate Google Colab notebooks and **extracted** two datasets from the list at [review dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt), and added each dataset into its own notebook.
